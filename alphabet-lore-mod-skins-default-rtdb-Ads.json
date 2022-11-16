@@ -2,8 +2,8 @@
   "Ads": [
     {
       "Ads_Banner": "admob",
-      "Ads_Inter": "max",
-      "Ads_Reward": "max"
+      "Ads_Inter": "admob",
+      "Ads_Reward": "admob"
     }
   ]
 }
