@@ -1,17 +1,16 @@
 {
+  "network": "admob",
   "ads": {
     "admob": {
-      "state": true,
-      "app_open": "ca-app-pub-3110492638226951/1563631636",
-      "banner": "ca-app-pub-3110492638226951/5343094549",
+      "app_open": "ca-app-pub-3940256099942544/3419835294",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
       "interstitials": {
-        "id1": "ca-app-pub-3110492638226951/2585640087",
-        "id2": "ca-app-pub-3110492638226951/6815958317",
-        "id3": "ca-app-pub-3110492638226951/7298377884"
+        "id1": "ca-app-pub-3940256099942544/1033173712",
+        "id2": "ca-app-pub-3940256099942544/1033173712",
+        "id3": "ca-app-pub-3940256099942544/1033173712"
       }
     },
     "applovin": {
-      "state": false,
       "app_open": "08400bdfe713c315",
       "banner": "03bf2d11e9ebfce1",
       "interstitials": {
