@@ -1,9 +1,24 @@
 {
-  "Ads": [
-    {
-      "Ads_Banner": "admob",
-      "Ads_Inter": "max",
-      "Ads_Reward": "admob"
+  "ads": {
+    "admob": {
+      "state": true,
+      "app_open": "45a35f75cdccf65e",
+      "banner": "45a35f75cdccf65e",
+      "interstitials": {
+        "id1": "45a35f75cdccf65e",
+        "id2": "45a35f75cdccf65e",
+        "id3": "45a35f75cdccf65e"
+      }
+    },
+    "applovin": {
+      "state": false,
+      "app_open": "45a35f75cdccf65e",
+      "banner": "45a35f75cdccf65e",
+      "interstitials": {
+        "id1": "45a35f75cdccf65e",
+        "id2": "45a35f75cdccf65e",
+        "id3": "45a35f75cdccf65e"
+      }
     }
-  ]
+  }
 }
