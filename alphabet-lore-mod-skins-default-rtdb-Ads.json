@@ -1,23 +1,20 @@
-{
-  "network": "admob",
-  "ads": {
-    "admob": {
+[
+   {
+      "name": "admob",
+      "state": true,
       "app_open": "ca-app-pub-3940256099942544/3419835294",
       "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitials": {
-        "id1": "ca-app-pub-3940256099942544/1033173712",
-        "id2": "ca-app-pub-3940256099942544/1033173712",
-        "id3": "ca-app-pub-3940256099942544/1033173712"
-      }
-    },
-    "applovinmax": {
+      "interstitial1": "ca-app-pub-3940256099942544/1033173712",
+      "interstitial2": "ca-app-pub-3940256099942544/1033173712",
+      "interstitial3": "ca-app-pub-3940256099942544/1033173712"
+   },
+   {
+      "name": "applovinmax",
+      "state": false,
       "app_open": "08400bdfe713c315",
       "banner": "03bf2d11e9ebfce1",
-      "interstitials": {
-        "id1": "80bc994ede940195",
-        "id2": "e0bea409de4b5850",
-        "id3": "542023421e73b089"
-      }
-    }
-  }
-}
+      "interstitial1": "80bc994ede940195",
+      "interstitial2": "e0bea409de4b5850",
+      "interstitial3": "542023421e73b089"
+   }
+]
